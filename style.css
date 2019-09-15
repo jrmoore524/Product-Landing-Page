@@ -111,6 +111,7 @@ h5 {
   display: none;
 }
   .header-img {
+    position: absolute;
     width: 30px;
     height: 30px;
   }
