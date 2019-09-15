@@ -46,8 +46,6 @@ header,
 main,
 aside,
 footer {
-  display: flex;
-  justify-content: center;
   text-align: center;
   font-size: 16px;
   background-color: black;
