@@ -106,12 +106,8 @@ h2 {
 h5 {
   color: limegreen;
 }
-@media screen (max-width: 400px){
-  body {
-grid-template-areas:
-“header header”
-“main aside”
-“footer footer”;
+@media only screen and (max-width: 480px) {
+  nav {
+  display: none;
 }
 }
-
