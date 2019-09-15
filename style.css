@@ -116,6 +116,6 @@ h5 {
   }
   body {
     display: flex;
-    justify-content: center;
+    flex-direction: row;
   }
 }
