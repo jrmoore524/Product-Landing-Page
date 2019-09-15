@@ -115,9 +115,6 @@ h5 {
     height: 30px;
   }
   body {
-    grid-template-areas: "header"
-                         "main"
-                         "aside"
-                         "footer";
+    display: flex;
   }
 }
