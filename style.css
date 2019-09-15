@@ -116,6 +116,6 @@ h5 {
   }
   body {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
 }
