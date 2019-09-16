@@ -112,8 +112,8 @@ h5 {
 }
   .header-img {
     position: relative;
-    margin-top: 5px;
-    margin-left: 5px;
+    top: 5px;
+    left: 5px;
     width: 40px;
     height: 40px;
   }
