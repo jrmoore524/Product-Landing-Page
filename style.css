@@ -111,7 +111,7 @@ h5 {
   display: none;
 }
   .header-img {
-    position: relative;
+    position: static;
     width: 30px;
     height: 30px;
   }
